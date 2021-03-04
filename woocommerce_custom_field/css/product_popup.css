@@ -1,0 +1,17 @@
+.multiselect {
+    width:20em;
+    height:8em;
+    border:solid 1px #c0c0c0;
+    overflow:auto;
+}
+ 
+.multiselect p {
+    display:block;
+	margin: 0px !important;
+    padding: 0 11px;border-bottom:1px solid #ddd;
+}
+ .multiselect input {margin-right:10px !important}
+.multiselect-on {
+    color:#ffffff;
+    background-color:#000099;
+}
